@@ -18,7 +18,7 @@ Before you can run the tests, you need to ensure the following dependencies are 
 1. Clone this repository to your local machine:
     ```bash
     git clone https://github.com/Toni2805/restful-booker-api-qa.git
-    cd repository
+    cd restful-booker-api-qa
     ```
 
 2. Install dependencies:
