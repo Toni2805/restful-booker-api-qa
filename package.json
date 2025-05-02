@@ -6,9 +6,9 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Toni Kapetanović tonikapetanovic2310@gmail.com",
   "license": "ISC",
-  "description": "",
+  "description": "Automated test suite for verifying the functionality and reliability of the Restful Booker API.",
   "dependencies": {
     "axios": "^1.9.0"
   },
